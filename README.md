@@ -42,12 +42,15 @@ Estas son algunas de las tecnologías y herramientas que más utilizo:
 
 Siéntete libre de conectarte conmigo aquí en GitHub o a través de
 
-[LinkedIn](https://www.linkedin.com/in/catalina-castelblanco/) 
+<img src="logos/logolinkedin.png" alt="Logo MySQL" width="20" height="auto">  [LinkedIn](https://www.linkedin.com/in/catalina-castelblanco/) 
 
-nadyacatalina99@gmail.com
+<img src="logos/logomail.png" alt="Logo MySQL" width="30" height="auto">   nadyacatalina99@gmail.com
 
 ¡Gracias por visitar mi perfil y explorar mi pasión por los datos!
 
+<p align="center">
+<img src="logos/logomysql.png" alt="Logo MySQL" width="50" height="auto">  <img src="logos/logopython.jpg" alt="Logo MySQL" width="50" height="auto">   <img src="logos/logopandas.png" alt="Logo MySQL" width="50" height="auto">   <img src="logos/logosckitlearn.png" alt="Logo MySQL" width="50" height="auto">   <img src="logos/logoapache.jpg" alt="Logo MySQL" width="50" height="auto">  <img src="logos/logodocker.jpg" alt="Logo MySQL" width="50" height="auto">  <img src="logos/logostreamlit.png" alt="Logo MySQL" width="50" height="auto">   <img src="logos/logopowerbi.png" alt="Logo MySQL" width="50" height="auto">   <img src="logos/logotableau.png" alt="Logo MySQL" width="50" height="auto">
+</p>
 <!---
 Cata09Castelblanco/Cata09Castelblanco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
