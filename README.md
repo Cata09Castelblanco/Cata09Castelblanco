@@ -25,17 +25,7 @@ Estas son algunas de las tecnologías y herramientas que más utilizo:
 - **SQL y MySQL**: Utilizados para la gestión de bases de datos y manipulación de grandes volúmenes de información.
 - **HadoopApache** : Permite el procesamiento distribuido de grandes conjuntos de datos en grupos de computadoras utilizando modelos de programación simples
 - **PowerBi y Streamlit**: Creación de dashboards interactivos para visualización de datos
-- **Google Cloud**: Uso de servicios en la nube para procesamiento y almacenamiento de datos.
-
-## 👩‍💻 Principales roles
-- **Data Analytics**: Análisis de datos para la extracción de insights y toma de decisiones.
-- **Machine Learning**: Aplicación de modelos predictivos y algoritmos de aprendizaje.
-- **Data Engineering**: Diseño y construcción de arquitecturas de datos robustas.
-
----
-
-<p align="center">Cada herramienta y tecnología que utilizo me permite acercarme más a ser un experto en el análisis y manejo de datos.</p>
-
+- **Google Cloud**: Uso de servicios en la nube para procesamiento y almacenamiento de datos
 ---
 
 ## 📫 ¡Contactate conmigo!
