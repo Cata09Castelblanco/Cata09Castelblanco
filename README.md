@@ -24,7 +24,7 @@ Estas son algunas de las tecnologías y herramientas que más utilizo:
 - **Python**: Mi lenguaje principal para programación y análisis de datos.
 - **SQL y MySQL**: Utilizados para la gestión de bases de datos y manipulación de grandes volúmenes de información.
 - **HadoopApache** : Permite el procesamiento distribuido de grandes conjuntos de datos en grupos de computadoras utilizando modelos de programación simples
-- **PowerBi y Streamlit**: Creación de dashboards interactivos para visualización de datos
+- **PowerBi, Looker Studio y Streamlit**: Creación de dashboards interactivos para visualización y análisis de datos
 - **Google Cloud**: Uso de servicios en la nube para procesamiento y almacenamiento de datos
 ---
 
